@@ -1,9 +1,14 @@
 
 /* Your CSS Code here. */
-.item-1{
+.holder{
 	display:flex;
 	justify-content:center;
 	align-tem:center;
+	background-color:red;
+	position:relative;
+	top:200px;
 	
 	
 }
+
+
